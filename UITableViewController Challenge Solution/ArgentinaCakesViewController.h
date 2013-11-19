@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ArgentinaCakesViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by admin 33 on 11/19/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ArgentinaCakesViewController : UITableViewController
 
 @end
